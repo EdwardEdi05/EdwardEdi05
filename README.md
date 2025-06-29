@@ -36,7 +36,7 @@ I'm passionate about solving problems and building tools that help people.
 ## 💬 Connect with Me
 
 - 📧 Email: tsevendeedi@gmail.com 
-- 🌐 Portfolio: [your-portfolio-link](#)  
+- 🌐 Portfolio: https://sites.google.com/view/edward-tsevende?usp=sharing 
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/edward-tsevende-911a77b6/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWnlYvQmXQmavWTV%2Bg32ZRA%3D%3D)
 
 ---
